@@ -1,6 +1,0 @@
-C:\Dev\Citywire coding test\App\App\bin\Debug\App.dll
-C:\Dev\Citywire coding test\App\App\bin\Debug\App.pdb
-C:\Dev\Citywire coding test\App\App\obj\Debug\App.csproj.AssemblyReference.cache
-C:\Dev\Citywire coding test\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
-C:\Dev\Citywire coding test\App\App\obj\Debug\App.dll
-C:\Dev\Citywire coding test\App\App\obj\Debug\App.pdb
