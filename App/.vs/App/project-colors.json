@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0bc6c85-09a4-4f1c-b42c-d5628566b38b": {
+      "ProjectGuid": "c0bc6c85-09a4-4f1c-b42c-d5628566b38b",
+      "DisplayName": "App",
+      "ColorIndex": 0
+    },
+    "f16b649c-929c-497f-9e49-906999ca79a9": {
+      "ProjectGuid": "f16b649c-929c-497f-9e49-906999ca79a9",
+      "DisplayName": "App.UnitTests",
+      "ColorIndex": 1
+    },
+    "37deb999-dacd-4221-98bf-5b65919059fe": {
+      "ProjectGuid": "37deb999-dacd-4221-98bf-5b65919059fe",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 2
+    },
+    "74da913d-2790-4bfb-9416-9a2662eb2ba6": {
+      "ProjectGuid": "74da913d-2790-4bfb-9416-9a2662eb2ba6",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
